@@ -1,0 +1,11 @@
+Student,StudyHours,Attendance,PrevMarks,Marks,Result
+A,1,50,35,32,Fail
+B,2,60,42,40,Fail
+C,2.5,65,48,46,Fail
+D,3,70,52,52,Pass
+E,4,75,58,60,Pass
+F,4.5,80,65,66,Pass
+G,5,82,70,72,Pass
+H,6,88,76,80,Pass
+I,7,92,82,86,Pass
+J,8,96,90,94,Pass
